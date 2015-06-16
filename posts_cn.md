@@ -6,6 +6,9 @@ title: 蜂巢推荐
 
 免责声明：发布内容并不代表本平台立场也不对其真实性负责,仅供参考。如作品内容、版权和其它问题侵害到您的权益，请与蜂巢联系，我们将及时修改或删除。
 
+- [【蜂巢推荐】苹果为什么创新越来越少了](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208617363&idx=3&sn=78fe5394db2c2838424becfee52a1b06&scene=5#rd)
+- [【蜂巢推荐】创业者要有杀手气质](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208617363&idx=2&sn=04340461105a0e00c9a120bd85a75384&scene=5#rd)
+- [【蜂巢资讯】A股诱惑大 中概股集体“回娘家”](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208617363&idx=1&sn=3cdccbae3c0d401a09681c9039103f0a&scene=5#rd)
 - [【蜂巢推荐】YC掌门人：创业公司怎样招到优秀又合适的人？](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208370541&idx=2&sn=ad9de6c770c98a732b1fe5ab4ab84429&scene=5#rd)
 - [【蜂巢导师】王强：用互联网思维提升餐饮体验的大师](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208370541&idx=1&sn=2f804b8a3dca00498cef2778c84e149d&scene=5#rd)
 - [【蜂巢推荐】融资中，这些问题或成创业者和VC疯狂撕逼的隐患](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208317636&idx=2&sn=da5bc014da5c0c8def91e366dec2bdae&scene=5#rd)
