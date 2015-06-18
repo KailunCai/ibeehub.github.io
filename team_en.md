@@ -11,7 +11,7 @@ Co-founder and president at g-MEO. Co-founder and CEO at Next Generation Interna
 Co-founder, QIYI Technologies LLC. Created first digital prescription online platform in 2002; created a number of novel online PDF document processing tools; created a video streaming online system and its TV box application. 15+ year business development and management skills in a few multinational companies.
 
 ## James Chen, CPA, MBA
-Deloitte Senior Tax CPA, mentor and advisor for several innovative Chinese，US, and India startups, a former sales and marketing director of Procter & Gamble and Nestle, 15 -year multicultural team building experience, titled with five master's degree plus 4 CPA professional certificates.
+Senior Tax CPA, mentor and advisor for several innovative Chinese，US, and India startups, a former sales and marketing director of Procter & Gamble and Nestle, 15 -year multicultural team building experience, titled with five master's degree plus 4 CPA professional certificates.
 
 ## Yansong Jiang
 Specialized in database marketing, Internet finance and credit risk management, currently works a top U.S. Bank. Ph.D in Marketing Communication, B.S. in Physics. 
