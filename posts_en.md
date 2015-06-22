@@ -6,6 +6,14 @@ title: Posts
 
 免责声明：发布内容并不代表本平台立场也不对其真实性负责,仅供参考。如作品内容、版权和其它问题侵害到您的权益，请与蜂巢联系，我们将及时修改或删除。
 
+- [乔布斯遗失的访谈录：你只要找到几个精英他们就会自动扩大团队](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208874365&idx=2&sn=dd3577afe02fb9162a12327b314d77f2&scene=5#rd)
+- [【蜂巢推荐】父亲节创业话题：“亲儿”难舍弃，“干儿”要价高－互联网金融进入大佬“拼儿”整合时代](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208874365&idx=1&sn=525e1ea6b32ae431cf155a0360a0e70e&scene=5#rd)
+- [【蜂巢推荐】六类容易成功的创业者，看看你属于哪一类?](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208789371&idx=2&sn=4d4957e9daa79f8508ee55e15bd007af&scene=5#rd)
+- [【蜂巢推荐】李开复：在中国创业的7大优势，从小垄断到大垄断](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208789371&idx=1&sn=0f673c116c4fdc71d472424eab46bb07&scene=5#rd)
+- [【蜂巢推荐】创业16年，为何马化腾总能抓住大风口？](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208747598&idx=2&sn=9d5d2d1443ae16c2d9684a9be0ea2135&scene=5#rd)
+- [【蜂巢推荐】WOO联合Talkingdata正式发布《2015年度O2O移动应用行业白皮书》](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208747598&idx=1&sn=bcaf4b89e9ccd22c45829ba8d45ec61d&scene=5#rd)
+- [创业项目天使融资及条款解析](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208713967&idx=1&sn=de6470ce70574f8a33c4f1c2ff72ba6f&scene=5#rd)
+- [【蜂巢资讯】国务院再发文鼓励创业，支持发展众筹融资平台](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208662731&idx=2&sn=0df8f652dbf9842f6af21b6b897fc623&scene=5#rd)
 - [【蜂巢推荐】苹果为什么创新越来越少了](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208617363&idx=3&sn=78fe5394db2c2838424becfee52a1b06&scene=5#rd)
 - [【蜂巢推荐】创业者要有杀手气质](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208617363&idx=2&sn=04340461105a0e00c9a120bd85a75384&scene=5#rd)
 - [【蜂巢资讯】A股诱惑大 中概股集体“回娘家”](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208617363&idx=1&sn=3cdccbae3c0d401a09681c9039103f0a&scene=5#rd)
