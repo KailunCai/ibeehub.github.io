@@ -16,4 +16,5 @@ New York, NY 10004
 传真： (212) 656-1612
 
 电子邮件：[info@ibeehub.com](mailto:info@ibeehub.com)
+          [ibeehub@gamil.com](mailto:ibeehub@gamil.com)
 
