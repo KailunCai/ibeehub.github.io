@@ -18,4 +18,4 @@ New York, NY 10004
 (212) 656-1612
 
 ## Email
-info@ibeehub.com
+[info@ibeehub.com](mailto:info@ibeehub.com)  &  [ibeehub@gamil.com](mailto:ibeehub@gamil.com)
