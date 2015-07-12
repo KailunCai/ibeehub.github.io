@@ -9,10 +9,10 @@ title: 聚创动态
 想创业 来聚创
 
 
-Time: 7.25/2015 9:30am-22:00pm
-Location: 32 Broadway, Suite 1701, New York, NY 10004
-时间：2015年7月25日 9:30am-22:00pm
-地点：32 Broadway, Suite 1701, New York, NY 10004
+- Time: 7.25/2015 9:30am-22:00pm
+- Location: 32 Broadway, Suite 1701, New York, NY 10004
+- 时间：2015年7月25日 9:30am-22:00pm
+- 地点：32 Broadway, Suite 1701, New York, NY 10004
 
  
 
@@ -71,7 +71,7 @@ Location: 32 Broadway, Suite 1701, New York, NY 10004
 
 
 
-周谷声
+周谷声 
 蜂巢聚创总裁，资深企业家，已先后在美国和中国创办多家企业
 
 陈欣
