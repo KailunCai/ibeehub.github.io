@@ -9,10 +9,10 @@ title: 聚创动态
 想创业 来聚创
 
 
-- Time: 7.25/2015 9:30am-22:00pm
-- Location: 32 Broadway, Suite 1701, New York, NY 10004
-- 时间：2015年7月25日 9:30am-22:00pm
-- 地点：32 Broadway, Suite 1701, New York, NY 10004
+Time: 7.25/2015 9:30am-22:00pm
+Location: 32 Broadway, Suite 1701, New York, NY 10004
+时间：2015年7月25日 9:30am-22:00pm
+地点：32 Broadway, Suite 1701, New York, NY 10004
 
  
 
@@ -71,10 +71,10 @@ title: 聚创动态
 
 
 
-周谷声 
+## 周谷声
 蜂巢聚创总裁，资深企业家，已先后在美国和中国创办多家企业
 
-陈欣
+## 陈欣
 中美注册会计师，税务师，中美印数家创业公司顾问，创业导师
 
 黄河
@@ -99,8 +99,8 @@ title: 聚创动态
  
 
 有疑问请联系
-邮箱：contact@ibeehub.com
-微信：shizipaopao
+邮箱：ibeehub@gmail.com
+微信：caikailun/mr_tag
 电话：(212)509-2001 （留言必复）
 
 Eventbrite报名 http://www.eventbrite.com/e/17233774684
@@ -112,4 +112,4 @@ Eventbrite报名 http://www.eventbrite.com/e/17233774684
 参加蜂巢聚创全球企业家创业研习营，让你伟大的梦想在这里振翅高飞。
 
   
-Have questions about 蜂巢聚创全球企业家创业研习营——纽约二期? Contact iBeeHub, Inc. 蜂巢聚创  
+Have questions about 蜂巢聚创全球企业家创业研习营——纽约三期? Contact iBeeHub, Inc. 蜂巢聚创  
