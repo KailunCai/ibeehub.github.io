@@ -6,6 +6,7 @@ title: 蜂巢推荐
 
 免责声明：发布内容并不代表本平台立场也不对其真实性负责,仅供参考。如作品内容、版权和其它问题侵害到您的权益，请与蜂巢联系，我们将及时修改或删除。
 
+- [浙大北加校友会，北大北加校友会，北加校联会合办北美地区创业大赛, 报名进入倒计时](https://www.evernote.com/shard/s177/sh/88e82c99-c84a-4571-8291-be983e6a2edd/fef215e4febd6794?from=groupmessage&isappinstalled=0)
 - [乔布斯遗失的访谈录：你只要找到几个精英他们就会自动扩大团队](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208874365&idx=2&sn=dd3577afe02fb9162a12327b314d77f2&scene=5#rd)
 - [【蜂巢推荐】父亲节创业话题：“亲儿”难舍弃，“干儿”要价高－互联网金融进入大佬“拼儿”整合时代](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208874365&idx=1&sn=525e1ea6b32ae431cf155a0360a0e70e&scene=5#rd)
 - [【蜂巢推荐】六类容易成功的创业者，看看你属于哪一类?](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208789371&idx=2&sn=4d4957e9daa79f8508ee55e15bd007af&scene=5#rd)
